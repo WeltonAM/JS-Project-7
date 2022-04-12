@@ -18,3 +18,5 @@ Quizz engloba eventos DOM.
 
 ## :tv: Acesse o Quizz
 
+https://weltonam.github.io/JS-Project-7/
+
